@@ -25,7 +25,7 @@ View the [documentation](https://docs.context.markets/) for more information.
 
 ### Base Sepolia
 
-- `PredictionMarket`: [0x000000000000CE50e1e1F6f99B2E5e98e5b6c609](https://basescan.org/address/0x000000000000CE50e1e1F6f99B2E5e98e5b6c609)
-- `OutcomeToken Implementation`: [0x70674cA9e35cca4E12926357Ed763844d276532C](https://basescan.org/address/0x70674cA9e35cca4E12926357Ed763844d276532C)
-- `Vault`: [0x98a272c0F97c32DF73b3cBed26A67b07a50F2AFd](https://basescan.org/address/0x98a272c0F97c32DF73b3cBed26A67b07a50F2AFd)
-- `RewardDistributor`: [0x37C9fbB5653F4DeE9b5177Fec23F600d4275001F](https://basescan.org/address/0x37C9fbB5653F4DeE9b5177Fec23F600d4275001F)
+- `PredictionMarket`: [0x000000000000CE50e1e1F6f99B2E5e98e5b6c609](https://sepolia.basescan.org/address/0x000000000000CE50e1e1F6f99B2E5e98e5b6c609)
+- `OutcomeToken Implementation`: [0x70674cA9e35cca4E12926357Ed763844d276532C](https://sepolia.basescan.org/address/0x70674cA9e35cca4E12926357Ed763844d276532C)
+- `Vault`: [0x98a272c0F97c32DF73b3cBed26A67b07a50F2AFd](https://sepolia.basescan.org/address/0x98a272c0F97c32DF73b3cBed26A67b07a50F2AFd)
+- `RewardDistributor`: [0x37C9fbB5653F4DeE9b5177Fec23F600d4275001F](https://sepolia.basescan.org/address/0x37C9fbB5653F4DeE9b5177Fec23F600d4275001F)
