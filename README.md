@@ -2,7 +2,7 @@
 
 This repo contains the smart contracts for [Context Markets](http://context.markets/), a prediction market platform. See the [license](LICENSE) for details on using this code in non-production and production settings.
 
-View the [documentation](https://contextwtf.notion.site/Context-Protocol-26fbcb14ec7f817db95bc10d9c24e915) for more information.
+View the [documentation](https://docs.context.markets/protocol) for more information.
 
 ## Structure
 
